@@ -1,6 +1,6 @@
 const exec = require('child_process').exec
 const async = require('async')
-const curent = require('./package.json')
+const curent = require(`${process.cwd()}/package.json`)
 
 const getVersionReplace = (version) => {
     return version.replace(/[`~^<>=]/gi, '')

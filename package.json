@@ -1,6 +1,6 @@
 {
   "name": "npm-package-update",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package that will update to all dependencies of your npm project.",
   "main": "index.js",
   "scripts": {
