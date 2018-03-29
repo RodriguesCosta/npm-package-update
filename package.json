@@ -1,0 +1,27 @@
+{
+  "name": "npm-package-update",
+  "version": "1.0.0",
+  "description": "Package that will update to all dependencies of your npm project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodriguesCosta/npm-package-update.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "update"
+  ],
+  "author": "RodriguesCosta <rodriguescosta@rodriguescosta.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RodriguesCosta/npm-package-update/issues"
+  },
+  "homepage": "https://github.com/RodriguesCosta/npm-package-update#readme",
+  "dependencies": {
+    "async": "^2.6.0"
+  }
+}
